@@ -149,7 +149,7 @@ const HomePage = () => {
                       <h3>Surprise</h3>
                       <div className="price">
                         <span>25</span>
-                        <sup className="currency">€</sup>
+                        <sup className="currency">$</sup>
                         <sup className="period" />
                       </div>
                       <hr className="hr_color" />
@@ -199,7 +199,7 @@ const HomePage = () => {
                       <h3>Love evening</h3>
                       <div className="price">
                         <span>45</span>
-                        <sup className="currency">€</sup>
+                        <sup className="currency">$</sup>
                         <sup className="period" />
                       </div>
                       <hr className="hr_color" />
@@ -257,7 +257,7 @@ const HomePage = () => {
                       <h3>Date in the Stars</h3>
                       <div className="price">
                         <span>90</span>
-                        <sup className="currency">€</sup>
+                        <sup className="currency">$</sup>
                         <sup className="period" />
                       </div>
                       <hr className="hr_color" />
@@ -359,7 +359,7 @@ const HomePage = () => {
                       <h2>With all friends</h2>
                       <div className="price">
                         <span>250</span>
-                        <sup className="currency">€</sup>
+                        <sup className="currency">$</sup>
                         <sup className="period" />
                       </div>
                       <hr className="hr_color" />
@@ -410,7 +410,7 @@ const HomePage = () => {
                       <h2>All you need</h2>
                       <div className="price">
                         <span>340</span>
-                        <sup className="currency">€</sup>
+                        <sup className="currency">$</sup>
                         <sup className="period" />
                       </div>
                       <hr className="hr_color" />
@@ -464,7 +464,7 @@ const HomePage = () => {
                       <h2>Everything and immediately</h2>
                       <div className="price">
                         <span>430</span>
-                        <sup className="currency">€</sup>
+                        <sup className="currency">$</sup>
                         <sup className="period" />
                       </div>
                       <hr className="hr_color" />
