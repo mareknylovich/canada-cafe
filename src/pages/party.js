@@ -485,7 +485,7 @@ export const PartyPage = () => {
                         <h2>All friends</h2>
                         <div className="price">
                           <span>90</span>
-                          <sup className="currency">€</sup>
+                          <sup className="currency">$</sup>
                           <sup className="period" />
                         </div>
                         <hr className="hr_color" />
@@ -536,7 +536,7 @@ export const PartyPage = () => {
                         <h2>Everything that needs</h2>
                         <div className="price">
                           <span>340</span>
-                          <sup className="currency">€</sup>
+                          <sup className="currency">$</sup>
                           <sup className="period" />
                         </div>
                         <hr className="hr_color" />
@@ -590,7 +590,7 @@ export const PartyPage = () => {
                         <h2>Everything and immediately</h2>
                         <div className="price">
                           <span>430</span>
-                          <sup className="currency">€</sup>
+                          <sup className="currency">$</sup>
                           <sup className="period" />
                         </div>
                         <hr className="hr_color" />
